@@ -102,7 +102,7 @@ h2. Q
 h2. R
 
 | *GitHub Username* | *Road to Ruby Gist Url* |
-| | |
+|rjp | https://gist.github.com/rjp/5411245|
 
 h2. S
 
